@@ -1,0 +1,26 @@
+{
+    "job" : [
+        {
+            "customer" : {
+                "information" : {
+                    "firstName" : "",
+                    "lastName" : "",
+                    "phoneNumber" : 2
+                    
+                    "address" : "5933 North Lawrence Street, Philadelphia, PA 19120",
+                    "jobtype" : {
+                        "category" : "House Service",
+                        "description" : "Babysitting",
+                        "specifications" : "",
+                    
+                    }
+                }
+                
+            }
+            
+        }
+    
+    
+    
+    ]		    
+}
